@@ -16,10 +16,10 @@ En la carpeta Documentos, encontrarás las presentaciones que hemos utilizado en
 - Acceso a métodos de o desde la superclase
 - Polimorfismo
 - Metaprogramación
+ 
+## Resultados de aprendizaje
 
-  ## Resultados de aprendizaje
-
-  **RA7. Desarrolla programas aplicando características avanzadas de los lenguajes orientados a objetos y del entorno de programación.**
+**RA7. Desarrolla programas aplicando características avanzadas de los lenguajes orientados a objetos y del entorno de programación.**
 
 Criterios de evaluación: *(mínimos en negrita)*
 
