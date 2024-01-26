@@ -7,12 +7,25 @@ Mejóralo pidiendo al usuario si se trata de días, horas, semanas ...
 package tk.ecasadofp.ejemplos.ejemplo1;
 
 import javax.swing.*;
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Main {
 
     public static void main(String[] args) {
+/*
+    En este bloque vemos como se puede utilizar un formatter para traernos una fecha
+    con formato
+
+        String fechaString = "22/4/2024";
+        DateTimeFormatter formateadorFecha = DateTimeFormatter.ofPattern("d/M/u");
+
+        LocalDate fecha = LocalDate.parse(fechaString, formateadorFecha);
+
+        System.out.println(fecha);
+*/
+
 
         Object[] opciones = {"Meses", "Semanas", "Dias","Horas", "Minutos"};
 
