@@ -15,7 +15,7 @@ public abstract class Vehiculo {
     public abstract void limpiar();
 
     @Override
-    public final String toString(){
+    public String toString(){
         return String.format("Velocidad media: %d, número de pasajeros: %d. %s",velMedia, numPasajeros, color);
     }
 }

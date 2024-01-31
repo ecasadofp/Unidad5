@@ -14,4 +14,8 @@ public class Coche extends Vehiculo {
         System.out.println("Mételo al tunel de lavado");
     }
 
+    @Override
+    public String toString(){
+        return super.toString() + ". Número de puertas: "+numPuertas;
+    }
 }
